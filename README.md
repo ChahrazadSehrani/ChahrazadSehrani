@@ -12,7 +12,9 @@
 <!-- [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/YOUR_ID)-->
 <!-- [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/YOUR_ORCID)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chahrazad-sehrani)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)]([https://huggingface.co/csehrani](https://huggingface.co/ChaSehPhD))
+
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/ChaSehPhD)
+
 [![CRAN Lab](https://img.shields.io/badge/CRAN_Lab-7c6af7?style=flat-square)](https://cran.univ-lorraine.fr)
 
 ---
@@ -33,9 +35,8 @@ I combine three research threads that are rarely integrated:
 - **Semantic AI** (NGSI-LD ontologies, FIWARE) as the context layer that prevents LLM hallucination in safety-critical decisions  
 - **Consequentialist ethical theory** as the normative framework for industrial task allocation and operator wellbeing
 
-> **Core insight:** ethical industrial AI requires *formal grounding* — unconstrained LLMs hallucinate in high-stakes scenarios. The structured prompt `P = ⟨R, π, S, T, O⟩` I developed constrains the reasoning space using live semantic context from the shop floor.
 
-Supervised by [Prof. Hind Bril El-Haouzi](https://cran.univ-lorraine.fr) and [Associate Prof. Yinling LIU](https://liuyinling.github.io) — ANR JCJC DET project.
+Supervised by [Prof. Hind Bril El-Haouzi](https://scholar.google.com/citations?user=8bc3igQAAAAJ&hl=en) and [Associate Prof. Yinling LIU](https://liuyinling.github.io) — ANR JCJC DET project.
 
 ---
 
