@@ -13,7 +13,7 @@
 <!-- [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/YOUR_ORCID)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chahrazad-sehrani-7b07b026a/) 
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/ChaSehPhD)
-[![CRAN Lab](https://img.shields.io/badge/CRAN_Lab-7c6af7?style=flat-square)](https://cran.univ-lorraine.fr)
+[![CRAN Lab](https://img.shields.io/badge/CRAN_Lab-7c6af7?style=flat-square)](https://cran.univ-lorraine.fr/?action=personDetail&codeindividu=02809&codelangue=fr)
 
 ---
 
